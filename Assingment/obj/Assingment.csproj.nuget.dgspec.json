@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\visual studio\\Assingment\\Assingment\\Assingment.csproj": {}
+    "D:\\visual studio\\Assingment\\GitHubWorkshop\\Assingment\\Assingment.csproj": {}
   },
   "projects": {
-    "D:\\visual studio\\Assingment\\Assingment\\Assingment.csproj": {
+    "D:\\visual studio\\Assingment\\GitHubWorkshop\\Assingment\\Assingment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\visual studio\\Assingment\\Assingment\\Assingment.csproj",
+        "projectUniqueName": "D:\\visual studio\\Assingment\\GitHubWorkshop\\Assingment\\Assingment.csproj",
         "projectName": "Assingment",
-        "projectPath": "D:\\visual studio\\Assingment\\Assingment\\Assingment.csproj",
+        "projectPath": "D:\\visual studio\\Assingment\\GitHubWorkshop\\Assingment\\Assingment.csproj",
         "packagesPath": "C:\\Users\\Raghad\\.nuget\\packages\\",
-        "outputPath": "D:\\visual studio\\Assingment\\Assingment\\obj\\",
+        "outputPath": "D:\\visual studio\\Assingment\\GitHubWorkshop\\Assingment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
